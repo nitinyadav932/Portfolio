@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial;
+    background:#111;
+    color:white;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:20px 50px;
+    background:black;
+}
+
+ul{
+    display:flex;
+    list-style:none;
+    gap:20px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+.hero{
+    text-align:center;
+    padding:100px;
+}
+
+section{
+    padding:50px;
+}

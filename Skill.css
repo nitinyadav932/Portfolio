@@ -1,0 +1,31 @@
+body{
+    background-color: #1f1f1f;
+}
+.about-box{
+    width: 85%;
+    margin: 50px auto;
+    padding: 8px 8px;
+    border: 2px solid white;   /* Same border */
+    border-radius: 20px;       
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-text{
+    color: white;
+    width: 70%;
+    font-size: 50;
+}
+
+.about-text h1{
+    margin-bottom: 20px;
+    text-decoration: underline;      /* Underline */
+    text-underline-offset: 8px;      
+    text-decoration-thickness: 3px;
+}
+
+.about-text p{
+    font-size: 23px;
+    line-height: 1.8;
+}
