@@ -1,3 +1,44 @@
 body{
     background-color: #1f1f1f;
+    border: 3px solid white;
+}
+h1{
+    text-align:center;
+    color:#fff;
+    text-decoration:underline;
+    font: size 50px;
+}
+.box{
+   height: 170px;
+   width:80vw;
+   padding:3px;
+   margin: 3px;
+   border:#070707 3px solid;
+   
+}
+.box1{
+    background-color:beige;
+    position:absolute;
+    top: 100px;
+    left: 120px;
+     height: 170px;
+}
+.box2{
+    background-color:beige;
+    position:absolute;
+    top: 250px;
+    left: 120px;
+     height: 170px;
+}
+.box3{
+    background-color:beige;
+    position:absolute;
+    top: 400px;
+    left: 120px;
+}
+.box1 p{
+    font: size 20px;
+    position:sticky;
+    font-size:20px;
+
 }
