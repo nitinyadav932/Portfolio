@@ -9,12 +9,11 @@ h1{
     font: size 50px;
 }
 .box{
-   height: 170px;
-   width:80vw;
-   padding:3px;
-   margin: 3px;
-   border:#070707 3px solid;
-   
+    height: 133px;
+    width: 80vw;
+    padding: 3px;
+    margin: 3px;
+    border:#1f1f1f solid 3px;
 }
 .box1{
     background-color:beige;
@@ -35,6 +34,7 @@ h1{
     position:absolute;
     top: 400px;
     left: 120px;
+    height: 170px;
 }
 .box1 p{
     font: size 20px;
