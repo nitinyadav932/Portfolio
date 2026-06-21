@@ -42,10 +42,11 @@ ul li a{
     border: 2px solid black;
     padding: 5px 10px;
     border-radius:5px;
+     box-shadow:0 0 40px rgb(0, 0, 0);
+     
 }
-
 ul li a:hover{
-    color:#00ffff;
+    color:#eeab5f;
 }
 
 .hero{
