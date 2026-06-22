@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(216, 248, 248);
+    margin:0;
+    padding:0;
+}
+header{
+    background-color:rgb(240, 238, 111);
+    padding:20px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    position: relative;
+    left: 68%;
+    
+}
+ul li a:hover{
+    color:rgb(243, 130, 200)
+}
+nav ul li a {
+    text-decoration: none;
+    color: rgb(43, 236, 59);
+    padding: 10px;
+    border:2px solid black;
+    border-radius:10px;
+    box-shadow: 7px 7px 7px rgba(0,0,0,0.3);
+}
+img{
+    width:50px;
+    height:50px;
+}
